@@ -18,7 +18,7 @@ _REQUIRED_PACKAGES = [
     'torch==1.1.0',
     'torchvision==0.3.0',
     'requests',
-    'tensorflow==1.14.0'
+    'tensorflow==2.6.4'
 ]
 
 _TEST_REQUIRES = [
