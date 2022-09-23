@@ -13,7 +13,7 @@ _VERSION = '0.0.0'
 
 _REQUIRED_PACKAGES = [
     'keras==2.2.4',
-    'protobuf==3.6.1',
+    'protobuf==3.18.3',
     'onnx==1.5.0',
     'torch==1.1.0',
     'torchvision==0.3.0',
